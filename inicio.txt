@@ -1,0 +1,2 @@
+----inicio de sesión exitoso, el usuario obtiene acceso a funcionalidades
+o recursos específicos dentro de la aplicación--
